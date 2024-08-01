@@ -1,7 +1,7 @@
-# BuzzAlert 🐝
+# BuzzAlerts 🐝
 
 ## Overview
-BuzzAlert is a tool designed to help Georgia Tech students track class availability and receive notifications when a spot opens up. The tool utilizes web scraping with Selenium to monitor the registration site and sends email alerts when a seat becomes available.
+BuzzAlerts is a tool designed to help Georgia Tech students track class availability and receive notifications when a spot opens up. The tool utilizes web scraping with Selenium to monitor the registration site and sends email alerts when a seat becomes available.
 
 ## Features
 - Track multiple classes by CRN (Course Reference Number).
@@ -18,8 +18,8 @@ BuzzAlert is a tool designed to help Georgia Tech students track class availabil
 ## Installation
 
 1. **Clone the Repository**  
-   `git clone https://github.com/pnung/buzzalert`  
-   `cd buzzalert`
+   `git clone https://github.com/pnung/BuzzAlerts`  
+   `cd BuzzAlerts`
 
 2. **Set Up Virtual Environment**  
    - On macOS/Linux:
