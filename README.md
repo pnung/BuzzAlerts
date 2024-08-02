@@ -1,7 +1,8 @@
 # BuzzAlerts 🐝
 
 ## Overview
-BuzzAlerts is a tool designed to help Georgia Tech students track class availability and receive notifications when a spot opens up. The tool utilizes web scraping with Selenium to monitor the registration site and sends email alerts when a seat becomes available. ### Designed for use during add/drop week
+BuzzAlerts is a tool designed to help Georgia Tech students track class availability and receive notifications when a spot opens up. The tool utilizes web scraping with Selenium to monitor the registration site and sends email alerts when a seat becomes available. 
+### Designed for use during add/drop week
 
 ## Features
 - Track multiple classes by CRN (Course Reference Number).
