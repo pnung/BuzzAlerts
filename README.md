@@ -74,3 +74,6 @@ The script will prompt you to enter the CRN, subject, and course number for each
 
 ### Receive Notifications
 The script will start monitoring the classes and send an email notification to your specified email address when a spot becomes available.
+
+## TODO: 
+Text notifcations
